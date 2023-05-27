@@ -1,7 +1,9 @@
 # DeepDaleGame
 Adventure Game 
 Minimum requirement for this game
-          8gb: RAM
-          200 gb: ROM
+
+
+          8GB: RAM
+          200 GB: ROM
           windows system
           
